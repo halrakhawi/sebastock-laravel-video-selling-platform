@@ -1,0 +1,155 @@
+
+  /* Extra small devices (portrait phones, less than 576px) */
+  @media (max-width: 575.98px) {
+
+    .searchbar{
+        display: none;
+    }
+    .move{
+      height: 170px;
+    }
+    .box-channles{
+      margin-bottom: 5%;
+    }
+    .report1{
+      width: auto;
+    }
+    .Report-btn{
+      display: flex;
+    flex-direction: column;
+    }
+    .reportactive{
+      width: auto;
+    }
+    
+    .lname , .location1{
+      padding-top: 10%;
+    }
+    .avatar-Email{
+      font-size: 12px;
+    }
+    .massage-hidediv1 , .massage-hidediv2 , .Renamediv , .Accept_div , .RejectionDiv {
+    }
+    .image-div-subAdmin {
+      text-align: center;
+      padding-top: 0px; 
+       padding-bottom: 0px; 
+  }
+  .sometext , .small {
+    display: none;
+  }
+   }
+  
+  /* Small devices (landscape phones, 576px and up) */
+  @media (min-width: 576px) and (max-width: 767.98px) { 
+    .searchbar{
+        display: none;
+    }
+    .move{
+      height: 170px;
+    }
+    .box-channles{
+      margin-bottom: 5%;
+    }
+    .report1{
+      width: auto;
+    }
+    .Report-btn{
+      display: flex;
+    flex-direction: column;
+    }
+    .reportactive{
+      width: auto;
+    }
+    .lname , .location1{
+      padding-top: 10%;
+    }
+    .avatar-Email{
+      font-size: 12px;
+    }
+    .massage-hidediv1 ,.massage-hidediv2 , .Renamediv , .Accept_div , .RejectionDiv{
+     /* margin: none;*/
+    }
+    .image-div-subAdmin {
+      text-align: center;
+      padding-top: 0px; 
+       padding-bottom: 0px; 
+  }
+  .sometext{
+    display: none;
+  }
+  }
+  /* Medium devices (tablets, 768px and up) */
+  @media (min-width: 768px) and (max-width: 991.98px) {  
+    .searchbar{
+        display: none;
+    }
+    .move{
+      height: 170px;
+    }
+    .box-channles{
+      margin-bottom: 3%;
+    }
+    .report1{
+      width: auto;
+    }
+    .Report-btn{
+      display: flex;
+    flex-direction: column;
+    }
+    .reportactive{
+      width: auto;
+    }
+    .avatar-Email{
+      font-size: 12px;
+    }
+    .massage-hidediv1 , .massage-hidediv2 , .Renamediv , .Accept_div, .RejectionDiv {
+      /*margin: none;*/
+    }
+    .image-div-subAdmin {
+      text-align: center;
+      padding-top: 0px; 
+       padding-bottom: 0px; 
+  }
+  .sometext{
+    display: none;
+  }
+  }
+  
+  /* Large devices (desktops, 992px and up) */
+  @media (min-width: 992px) and (max-width: 1199.98px) { 
+    .move{
+      height: 150px;
+    }
+    .box-channles{
+      margin-bottom: 3%;
+    }
+   
+    .first-big {
+      padding-left: 10%;
+      padding-right: 10%;
+    }
+    .movedownloads{
+      height: 115px;
+    }
+  }
+  /* Extra large devices (large desktops, 1200px and up) */
+  @media (min-width: 1200px) { 
+    .move{
+      height: 150px;
+    }
+    .box-channles{
+      margin-bottom: 3%;
+    }
+ 
+
+    .first-big {
+      padding-left: 10%;
+      padding-right: 10%;
+    }
+    .movedownloads{
+      height: 115px;
+    }
+    
+  }
+  

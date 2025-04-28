@@ -1,0 +1,1 @@
+New user inserted {{$notification->data['user']['name']}}
